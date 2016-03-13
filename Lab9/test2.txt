@@ -1,0 +1,2 @@
+cow Daisy 2 6
+paintball BLUE 10 5 1

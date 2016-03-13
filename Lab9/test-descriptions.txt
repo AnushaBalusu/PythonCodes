@@ -1,0 +1,15 @@
+test.txt : test input given in the problem solving
+
+test1.txt : Only one cow lies within one ball's radius. All others are disconnected
+
+test2.txt : Only 1 cow and 1 ball present. Both are disconnected
+
+test3.txt : Only one cow present in the field
+
+test4.txt : One ball encompasses all the cows and other balls
+
+test5.txt : All the balls encompass all the cows and other balls (all balls at the same location)
+
+test6.txt : All balls at one location. All cows at one location. Cows present within ball's radius
+
+test7.txt : Empty field
